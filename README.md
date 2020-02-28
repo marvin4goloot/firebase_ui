@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/fidelisa/flutter_plugins.svg?branch=master)](https://travis-ci.org/fidelisa/flutter_plugins)
 [![pub package](https://img.shields.io/pub/v/firebase_ui.svg)](https://pub.dartlang.org/packages/firebase_ui)
 
-Fork of https://pub.dartlang.org/packages/flutter_firebase_ui
+Fork of Maliffic/firebase_ui
 
 Old package wasnt being maintained so i created this one to update.
 
