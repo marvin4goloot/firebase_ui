@@ -1,5 +1,7 @@
 name: firebase_ui_exemple
 description: A new Flutter project.
+version: 1.0.8
+author: Nicholas Bowler <crucifixx25@gmail.com>
 
 dependencies:
   flutter:
